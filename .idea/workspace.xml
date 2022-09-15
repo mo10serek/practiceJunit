@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c6925b5-9751-4945-8857-20d47913dd73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/squareRoot/squareRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/squareRoot/squareRootTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/squareRoot/squareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/squareRoot/squareRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/squareRoot/squareRootTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/squareRoot/squareRootTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +82,18 @@
       <option name="presentableId" value="Default" />
       <updated>1663203825996</updated>
     </task>
+    <task id="LOCAL-00001" summary="writing the test case">
+      <created>1663205141466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663205141466</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="writing the test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing the test case" />
   </component>
 </project>

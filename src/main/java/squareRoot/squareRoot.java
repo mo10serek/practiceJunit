@@ -4,6 +4,6 @@ public class squareRoot {
 
     public double squareRoot(double x){
 
-        return 0;
+        return Math.sqrt(x);
     }
 }

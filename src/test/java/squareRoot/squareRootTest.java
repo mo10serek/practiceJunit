@@ -11,6 +11,6 @@ public class squareRootTest extends TestCase {
     squareRoot squareRoot = new squareRoot();
 
     public void testSquareRoot() {
-        assertEquals(squareRoot.squareRoot(4), 2);
+        assertEquals(squareRoot.squareRoot(4), 2.0);
     }
 }
